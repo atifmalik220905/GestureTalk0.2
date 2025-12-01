@@ -1,114 +1,131 @@
 # 📘 GestureTalk AI – Sign Language to Speech Converter
 
-# 
+##
 
-# GestureTalk AI is an intelligent real-time sign language recognition system built to improve communication between the deaf community and the hearing population. Using MediaPipe, TensorFlow, scikit-learn, and OpenCV, the system detects hand gestures via webcam and converts them instantly into text and speech.
+## GestureTalk AI is an intelligent real-time sign language recognition system built to improve communication between the deaf community and the hearing population. Using MediaPipe, TensorFlow, scikit-learn, and OpenCV, the system detects hand gestures via webcam and converts them instantly into text and speech.
 
-# 
+##
 
 # 🚀 Features
 
-# 
+##
 
-# ✋ Real-time gesture tracking using MediaPipe Hand Landmark Detection
+## ✋ Real-time gesture tracking using MediaPipe Hand Landmark Detection
 
-# 
+## 
 
-# 🧠 Custom-trained ML model for accurate sign classification
+## 🧠 Custom-trained ML model for accurate sign classification
 
-# 
+## 
 
-# 🎤 Text-to-Speech output for smooth communication
+## 🎤 Text-to-Speech output for smooth communication
 
-# 
+## 
 
-# 🎯 Supports multiple gestures with high accuracy
+## 🎯 Supports multiple gestures with high accuracy
 
-# 
+## 
 
-# 🪶 Lightweight, fast, and optimized for real-time performance
+## 🪶 Lightweight, fast, and optimized for real-time performance
 
-# 
+## 
 
-# 🧩 Easy to extend with new gestures and models
+## 🧩 Easy to extend with new gestures and models
 
-# 
+## 
 
 # 🛠️ Tech Stack
 
-# 
+## 
 
-# Languages: Python
+## Languages: Python
 
-# Libraries:
+## Libraries:
 
-# 
+## 
 
-# MediaPipe
+## MediaPipe
 
-# 
+## 
 
-# TensorFlow
+## TensorFlow
 
-# 
+## 
 
-# scikit-learn
+## scikit-learn
 
-# 
+## 
 
-# NumPy
+## NumPy
 
-# 
+##
 
-# OpenCV
+## OpenCV
 
-# 
+## 
 
-# pyttsx3 (for speech output)
+## pyttsx3 (for speech output)
 
-# 
+## 
 
 # 📁 Project Structure
 
-# GestureTalk-AI/
+## GestureTalk-AI/
 
-# │── data/               # Dataset for gesture training
+## │── data/               # Dataset for gesture training
 
-# │── model/              # Saved ML model files
+## │── model/              # Saved ML model files
 
-# │── src/                # Main program code
+## │── src/                # Main program code
 
-# │   ├── collect\_data.py
+## │   ├── collect\_data.py
 
-# │   ├── train\_model.py
+## │   ├── train\_model.py
 
-# │   ├── recognize.py
+## │   ├── recognize.py
 
-# │── README.md
+## │── README.md
 
-# │── requirements.txt
+## │── requirements.txt
 
-# 
+## 
 
 # ⚙️ How It Works
 
-# 
+### 
 
-# MediaPipe detects hand landmarks (21 coordinates per hand).
+## MediaPipe detects hand landmarks (21 coordinates per hand).
 
-# 
+###
 
-# Coordinates are converted into a numerical dataset.
+## Coordinates are converted into a numerical dataset.
 
-# 
+### 
 
-# A TensorFlow model is trained to classify gestures.
+## A TensorFlow model is trained to classify gestures.
 
-# 
+### 
 
-# In real time, the model predicts the gesture shown to the camera.
+## In real time, the model predicts the gesture shown to the camera.
 
-# 
+### 
 
-# The system displays the prediction and optionally speaks it aloud.
+## The system displays the prediction and optionally speaks it aloud.
+# 🚀 How to Run the Project
+## ✅ Step 1: Install Dependencies
 
+### Run this command in your terminal:
+
+- `pip install -r requirements.txt`
+
+## ✅ Step 2: Create the Dataset
+
+### Use the trainer script to collect gesture data:
+
+- `python trainer.py`
+
+## ✅ Step 3: Train & Generate the Model
+
+### After collecting data, train your model:
+
+- `python createModel.py`
