@@ -8,11 +8,6 @@
 ##
 
 
-<<<<<<< HEAD
-=======
-Real-time hand tracking
-
->>>>>>> 53bc04cbeeddd77f976d642c1f37bab2c3a7049f
 
 # 🚀 Features
 
@@ -22,10 +17,6 @@ Real-time hand tracking
 
 ## Fast and accurate gesture recognition
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 53bc04cbeeddd77f976d642c1f37bab2c3a7049f
 ##
 
 ## ✋ Real-time gesture tracking using MediaPipe Hand Landmark Detection
@@ -52,7 +43,6 @@ Real-time hand tracking
 
 
 
-<<<<<<< HEAD
 # 🛠️ Technologies Used
 
 ## Python
@@ -66,21 +56,6 @@ Real-time hand tracking
 ## NumPy
 ## 
 ## scikit-learn
-=======
-🛠️ Technologies Used
-
-Python
-
-MediaPipe
-
-TensorFlow
-
-OpenCV
-
-NumPy
-
-scikit-learn
->>>>>>> 53bc04cbeeddd77f976d642c1f37bab2c3a7049f
 
 
 
@@ -123,24 +98,6 @@ scikit-learn
 ###
 # 🚀 How to Run the Project
 ## ✅ Step 1: Install Dependencies
-<<<<<<< HEAD
-=======
-
-pip install -r requirements.txt
-
-✅ Step 2: Create the Dataset
-
-Use the trainer script to collect gesture data:
-
-python trainer.py
-
-✅ Step 3: Train & Generate the Model
-
-After collecting data, train your model:
-
-python createModel.py
-
->>>>>>> 53bc04cbeeddd77f976d642c1f37bab2c3a7049f
 ### Run this command in your terminal:
 - `pip install -r requirements.txt`
 ## ✅ Step 2: Create the Dataset
